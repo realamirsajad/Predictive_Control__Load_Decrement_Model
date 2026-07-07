@@ -1,2 +1,2 @@
 ## Code Developer
-* **Ali MAjidi** 
+* **Ali Majidi** 
